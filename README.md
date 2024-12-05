@@ -80,7 +80,8 @@ Sinh viên cần tạo tài liệu báo cáo kết quả, hướng dẫn cài đ
    ```
 3. Chạy ứng dụng:
    ```bash
-   flutter run
+   flutter run 
+   ok
    ```
 4. Kiểm tra ứng dụng trên thiết bị hoặc máy ảo.
 5. Đăng nhập hoặc tạo tài khoản mới (nếu cần).
